@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "メリュー",
+  "base_artist": "n-buna",
+  "createdAt": "2026-01-06T13:41:57.269791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メリュー",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/01_メリュー_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メリュー (feat. 宵崎奏&朝比奈まふゆ&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_メリュー_(feat._宵崎奏&朝比奈まふゆ&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メリュー",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&初音ミク",
+      "has_synced": true,
+      "path": "select/03_メリュー_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メリュー",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/04_メリュー_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メリュー",
+      "artist": "n-buna feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_メリュー_n-buna_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メリュー",
+      "artist": "Kano",
+      "has_synced": true,
+      "path": "select/06_メリュー_Kano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メリュー",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/07_メリュー_Sou.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メリュー",
+      "artist": "ナブナ",
+      "has_synced": true,
+      "path": "select/08_メリュー_ナブナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メリュー",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/pl_01_メリュー_n-buna.txt"
+    }
+  ]
+}
